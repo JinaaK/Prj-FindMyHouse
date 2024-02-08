@@ -67,7 +67,7 @@ def main_page():
 
     st.subheader("프로젝트 개요")
     st.markdown("멀티캠퍼스 멀티잇 데이터 분석 & 엔지니어 34회차")
-    st.markdown("Team 1 Mini-Project : '내 집을 찾아서'  [GitHub](https://github.com/JinaaK/apiproject2402)")
+    st.markdown("Team 1 Mini-Project : '내 집을 찾아서'  [GitHub](https://github.com/JinaaK/Prj-FindMyHouse.git)")
 
 # 자치구별 시세 페이지
 def sgg_page(recent_data):
